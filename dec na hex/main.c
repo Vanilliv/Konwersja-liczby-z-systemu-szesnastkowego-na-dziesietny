@@ -1,6 +1,5 @@
 /*
-* Maciej P³oñski
-* Zajecia: 2024.04.03
+* Maciej PÂ³oÃ±ski
 * Temat : Konwersja liczby z systemu szesnastkowego na dziesietny
 */
 #include <stdio.h>
